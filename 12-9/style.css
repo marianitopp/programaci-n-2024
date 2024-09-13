@@ -21,12 +21,16 @@ header h1 {
 table{
     width: 70%;
     border-collapse: collapse;
-    justify-content: center;
+    
 }
 
 thead {
-    background-color: #429ca8;
+    background-color: #3cabb9;
     color: black;
+}
+
+thead:hover {
+    background-color: #6bc7d3; 
 }
 
 th, td {
